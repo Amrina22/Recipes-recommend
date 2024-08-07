@@ -1,0 +1,907 @@
+,Bahan,count
+0,cabai rawit merah,88
+1,kelapa,104
+2,ayam,165
+3,andaliman,4
+4,daun jeruk,201
+5,jeruk nipis,164
+6,jahe,232
+7,kunyit,130
+8,putih,89
+9,bawang putih,729
+10,bawang merah,467
+11,serai,228
+12,lengkuas,210
+13,tepung terigu,305
+14,cabai bubuk,6
+15,seledri,40
+16,tepung tapioka,73
+17,kaldu bubuk,119
+18,tauge,35
+19,kacang tanah,53
+20,kangkung,14
+21,kacang,40
+22,terong,11
+23,cabai merah,205
+24,cabai rawit,151
+25,kemiri,165
+26,merah,222
+27,kencur,49
+28,putih telur,48
+29,kuning telur,73
+30,coklat bubuk,33
+31,cokelat,41
+32,tepung maizena,121
+33,pasta,41
+34,susu bubuk,51
+35,telur,272
+36,moka,1
+37,strawberry,11
+38,margarin,141
+39,emulsifier,16
+40,asam jawa,67
+41,daun salam,219
+42,daging sapi,129
+43,cooking,18
+44,x,1
+45,vla,1
+46,pandan,24
+47,kulit pastry,2
+48,dark,20
+49,chocolate,17
+50,susu full cream,18
+51,gaplek,1
+52,kering,40
+53,singkong,22
+54,bawang,27
+55,telur ayam,36
+56,kayu manis,61
+57,bunga lawang,40
+58,cengkeh,42
+59,daun kari,8
+60,tepung,20
+61,kentang,51
+62,kapulaga,29
+63,terasi,63
+64,beras jagung,1
+65,ikan asin,3
+66,tahu,15
+67,beras,42
+68,sambal terasi,5
+69,tempe,35
+70,beras ketan,11
+71,jus,6
+72,santan,228
+73,kental,77
+74,ketumbar,114
+75,ketumbar bubuk,20
+76,lada bubuk,84
+77,kecap manis,173
+78,lemak sapi,3
+79,jintan,14
+80,sate,26
+81,buah cherry,6
+82,cream of tartar,4
+83,susu,115
+84,pasta coklat,12
+85,susu kental manis,65
+86,pisang ambon,6
+87,choco chips,8
+88,pisang,12
+89,krim,8
+90,baking powder,68
+91,butter,52
+92,diblender,2
+93,keju,28
+94,tiramisu,1
+95,pasta mocca,1
+96,sayur,25
+97,essence vanilla,2
+98,sp,12
+99,biar,12
+100,kaldu ayam bubuk,36
+101,daun bawang,192
+102,tutut,1
+103,rebon,2
+104,merica bubuk,128
+105,udang,81
+106,kucai,2
+107,teri medan,6
+108,tepung beras,69
+109,cabai rawit hijau,16
+110,cuka,23
+111,daun pandan,94
+112,tahu putih,31
+113,cabai merah keriting,106
+114,kecap asin,69
+115,saus sambal,31
+116,lobak,3
+117,ebi,26
+118,abon ayam,1
+119,kulit lumpia,10
+120,abon sapi,2
+121,saus tiram,117
+122,cabai hijau,33
+123,bel,1
+124,teri,5
+125,kulit melinjo,2
+126,mentega,59
+127,lemon,26
+128,bubuk,115
+129,pastry,3
+130,filo,1
+131,tepung ketan,18
+132,aren,10
+133,brown sugar,10
+134,rekat,3
+135,baking soda,16
+136,kuning,19
+137,warna,43
+138,orange,3
+139,tepung sagu,58
+140,ikan tenggiri,26
+141,giling,36
+142,daun pisang,38
+143,kaldu jamur,26
+144,kelapa muda,19
+145,kol,41
+146,wortel,90
+147,lada,70
+148,kecap inggris,20
+149,hitam,51
+150,saus tomat,54
+151,sosis,15
+152,bawang bombay,136
+153,vanilla,30
+154,soft cream,1
+155,shortening,1
+156,ekstrak,7
+157,masak,25
+158,mayonaise,11
+159,cabai,24
+160,rebusan,6
+161,madu,23
+162,mineral,2
+163,kacang almond,7
+164,kerang hijau,4
+165,kaldu udang,4
+166,mie,44
+167,gochugaru,2
+168,kecap ikan,24
+169,hijau,43
+170,sawi,28
+171,tim,1
+172,bacem,1
+173,kaldu jamur bubuk,3
+174,cilok,1
+175,bawang putih bubuk,15
+176,kaldu sapi,17
+177,whipping cream,19
+178,meses,6
+179,ragi,24
+180,jamur kuping,11
+181,bihun,8
+182,dada ayam,48
+183,keju cheddar,34
+184,smoked beef,7
+185,beras basmati,2
+186,kismis,11
+187,tomat,137
+188,buncis,18
+189,tape ketan hitam,2
+190,kluwek,4
+191,keriting,9
+192,jeruk limau,13
+193,petai,16
+194,baby cumi,1
+195,pisang uli,1
+196,manis,20
+197,kapur sirih,6
+198,ubi merah,1
+199,ikan nila,8
+200,timun,44
+201,muda,38
+202,bebek,6
+203,pari,1
+204,ikan pe,2
+205,ikan,14
+206,merica,125
+207,pala bubuk,38
+208,kulit pangsit,6
+209,ragi instant,18
+210,palm sugar,2
+211,biang,1
+212,tahu kuning,7
+213,kulit,39
+214,lalap,7
+215,serbaguna,26
+216,ceker ayam,10
+217,wijen,65
+218,plain,24
+219,nata de coco,5
+220,keruk,7
+221,beserta,2
+222,kaleng,14
+223,sagu mutiara,7
+224,susu evaporasi,6
+225,kembang tahu,4
+226,ngohiong,2
+227,balado,2
+228,daun kemangi,39
+229,ikan tongkol,13
+230,usus ayam,2
+231,bayam,17
+232,nasi putih,28
+233,nori,3
+234,sirup,17
+235,maple,2
+236,mangga,14
+237,bakso,19
+238,instant,8
+239,kerupuk,15
+240,jumbo,1
+241,barbeque,3
+242,saus,27
+243,vanili,40
+244,kacang kenari,6
+245,chocolatos,3
+246,soda kue,11
+247,tulang rangu,1
+248,kaldu,24
+249,tetelan sapi,1
+250,sayap ayam,4
+251,ikan kembung,6
+252,sambal,17
+253,ikan mujair,2
+254,bubuk kari,12
+255,kaldu ayam,33
+256,vanilli,3
+257,kecap,10
+258,daging kambing,9
+259,ikan mas,7
+260,asam kandis,19
+261,ungu,10
+262,ikan bandeng,13
+263,tomat hijau,13
+264,cabai keriting,15
+265,kirm,1
+266,jelly,11
+267,ma,1
+268,harum,1
+269,jinten,15
+270,kerupuk kulit,1
+271,tepung panir,11
+272,oreo,6
+273,ikan selar,1
+274,daun,36
+275,biji,62
+276,nanas,27
+277,drink,1
+278,sedap,34
+279,banjar,1
+280,coklat putih,4
+281,syrup,1
+282,segitiga,3
+283,ubi ungu,6
+284,asam,13
+285,limau,2
+286,hokkian,1
+287,spaghetti,8
+288,parsley,14
+289,brulee,1
+290,bolognese,3
+291,daging giling,7
+292,ayam kampung,17
+293,keriiting,1
+294,lontong,9
+295,tahu kulit,5
+296,daun selada,8
+297,acar,9
+298,rawit,9
+299,pangsit,1
+300,gulung,2
+301,ikan teri,4
+302,belut,2
+303,bakso sapi,9
+304,sagu,5
+305,puyuh,1
+306,burung,1
+307,pala,19
+308,rebung,3
+309,jagung,36
+310,rajungan,2
+311,cake emulsifier,1
+312,persegi,3
+313,butter cream,8
+314,kertas,2
+315,roti,2
+316,pokcoy,2
+317,hoisin,1
+318,sawi putih,7
+319,soun,10
+320,olive,5
+321,thyme,4
+322,zaitun,6
+323,basil,4
+324,zukini,1
+325,oregano,8
+326,blansir,1
+327,daun pepaya,3
+328,tiwul,1
+329,paha ayam,13
+330,gereh,1
+331,pethek,1
+332,teh,9
+333,ketupat,4
+334,selongsong,1
+335,pulen,1
+336,jamur hioko,1
+337,beras ketan putih,6
+338,lobak putih,1
+339,cuciwis,1
+340,caisim,4
+341,bilah,1
+342,jepit,1
+343,kayu,2
+344,secang,2
+345,batu,44
+346,bunga cengkeh,1
+347,ceengkeh,1
+348,daun pala,1
+349,daun kunyit,23
+350,labu siam,12
+351,semangka,3
+352,beef,1
+353,tahu jepang,4
+354,jamur enoki,3
+355,rumput laut,4
+356,akar,2
+357,konbu,1
+358,jamur shitake,2
+359,risotto,1
+360,tawar,21
+361,keju parmesan,4
+362,ikan gabus,3
+363,unsalted butter,6
+364,english muffin,1
+365,essence,4
+366,cincau,2
+367,kopi,7
+368,saset,1
+369,cappucino,1
+370,salad,2
+371,alpukat,14
+372,edamame,2
+373,jepang,4
+374,shoyu,1
+375,salmon,1
+376,kedelai,2
+377,kiwi,3
+378,roti tawar,14
+379,oncom,8
+380,daun mint,1
+381,soda,3
+382,kacang hijau,9
+383,kolang kaling,4
+384,pacar,1
+385,cina,1
+386,jeruk,10
+387,lokal,1
+388,iga sapi,8
+389,sandung lamur,5
+390,kwetiau,5
+391,ikan patin,5
+392,mayones,2
+393,mustard,3
+394,kol merah,2
+395,chia seed,1
+396,kol putih,2
+397,palem,13
+398,hela,19
+399,ceplok,2
+400,tortilla,1
+401,bokor,1
+402,paprika,8
+403,selada,5
+404,cornflake,1
+405,oatmeal,1
+406,ikan tuna,3
+407,sirsak,2
+408,jambu biji merah,1
+409,nasi shirataki,1
+410,tulang ayam,6
+411,wafer,1
+412,cream,9
+413,whippng,1
+414,emping,2
+415,mie kuning,10
+416,telur ikan,3
+417,sprinkles,1
+418,warni,7
+419,lidah sapi,2
+420,kerang,2
+421,kerang dara,4
+422,vanila,15
+423,mayonnaise,8
+424,soto,1
+425,quaker oat,1
+426,kerupuk udang,2
+427,kacang kedelai,3
+428,biji selasih,8
+429,biskuit susu,1
+430,spray,1
+431,bengkuang,5
+432,nasi,12
+433,asin,7
+434,cream cheese,9
+435,cakalang,1
+436,rice noodles,1
+437,kabocha,1
+438,asi,1
+439,shitake,1
+440,fishcake,1
+441,pisang mas,1
+442,paprika merah,7
+443,nangka,8
+444,daun jeruk purut,6
+445,marshmallow,1
+446,elbow,2
+447,keju mozarella,10
+448,macaroni,1
+449,sirloin,1
+450,zucchini,1
+451,chunjang,1
+452,kacang mede,4
+453,cumi,17
+454,ikan cakalang,3
+455,kacang polong,6
+456,chicken katsu,1
+457,indomie,1
+458,popcorn,1
+459,shirataki,1
+460,ramen,2
+461,teriyaki,5
+462,tobiko,1
+463,ikan salmon,3
+464,tepung ketan putih,8
+465,ubi cilembu,1
+466,corn syrup,1
+467,jamur kancing,9
+468,gelatin,2
+469,brokoli,7
+470,crab stick,1
+471,bakso ayam,4
+472,pisang kepok,9
+473,tani,12
+474,lemak,6
+475,sosis ayam,1
+476,kurma,3
+477,kecambah,2
+478,rempeyek,1
+479,stroberi,3
+480,cheese,3
+481,biru,6
+482,pindang,1
+483,salem,1
+484,teri nasi,3
+485,didih,7
+486,mozarella,2
+487,sosis sapi,4
+488,tuna,3
+489,miso,1
+490,dashi,2
+491,tofu,2
+492,okonomiyaki,1
+493,katsuobushi,1
+494,milo,2
+495,susu uht,8
+496,petis,5
+497,matcha powder,1
+498,creamer,1
+499,petis udang,4
+500,jamur,6
+501,ijo,4
+502,yoghurt,1
+503,babat sapi,3
+504,babat,3
+505,pare,3
+506,whip,3
+507,krimer,1
+508,bubuk spekuk,1
+509,tape singkong,7
+510,tape ketan,1
+511,setan,3
+512,pakis,2
+513,mi,1
+514,batak,1
+515,paprika hijau,7
+516,pisang raja,5
+517,tahu cina,1
+518,bunga sedap malam,2
+519,lunak,8
+520,ketan hitam,3
+521,ikan salai,1
+522,garing,1
+523,sundai,1
+524,api,1
+525,ubi jalar,3
+526,tepung roti,13
+527,naga,6
+528,sitrat,1
+529,renin,1
+530,rennet,1
+531,susu sapi,2
+532,meises,8
+533,pepaya,8
+534,essens,5
+535,talam,4
+536,telur bebek,3
+537,lenjer,2
+538,jawa,18
+539,hati,1
+540,usus,1
+541,paru,1
+542,jeroan sapi,1
+543,punggung,3
+544,tulang kaki sapi,1
+545,urat sapi,1
+546,sengkel,2
+547,roti john,1
+548,tepung kanji,7
+549,biskuit oreo,2
+550,bunga kecombrang,2
+551,buntut sapi,2
+552,inggris,1
+553,pisang tanduk,3
+554,caisin,1
+555,ikan lele,5
+556,sayap,1
+557,delima,1
+558,oat,1
+559,chia,1
+560,yogurt,2
+561,sukade,2
+562,spekoek,2
+563,kunci,1
+564,cookies,1
+565,cake,2
+566,lollipop,1
+567,ganache,1
+568,kue,5
+569,fondant,1
+570,kerupuk krecek,1
+571,raising,1
+572,self,1
+573,flour,1
+574,kristal,1
+575,perisa,3
+576,lingkar,1
+577,taro,1
+578,daun seledri,12
+579,kepiting,5
+580,castor,1
+581,gendot,2
+582,tulang jambal roti,1
+583,jambal roti,1
+584,apel,3
+585,korsvet,3
+586,telur puyuh,12
+587,oranye,1
+588,ikan gurame,5
+589,limo,1
+590,daging ikan,3
+591,tulang kambing,1
+592,iga kambing,2
+593,kaki kambing,1
+594,jeroan kambing,1
+595,itik,1
+596,tangmien,1
+597,green tea,3
+598,susu kedelai,1
+599,ikan kakap,7
+600,ruku,1
+601,esens,1
+602,rosemary,3
+603,essen,4
+604,cheddar,1
+605,jamur champignon,2
+606,baby,1
+607,kolcuciwis,1
+608,has,10
+609,arumanis,1
+610,mata,5
+611,pempek,1
+612,cuko,3
+613,mozzarella,2
+614,labu,4
+615,kepala,10
+616,skm,2
+617,extract,3
+618,kacang merah,3
+619,kacang mete,2
+620,gurame,1
+621,mascarpone,1
+622,cocopandan,5
+623,anggur,2
+624,bunga kol,6
+625,jamur tiram,2
+626,hati sapi,1
+627,icing,2
+628,zestnya,1
+629,zest,2
+630,ampela,3
+631,kekian,1
+632,ati,3
+633,labu kuning,4
+634,krecek,1
+635,kapri,3
+636,paha,3
+637,kari,3
+638,kerupuk merah,3
+639,ikan bawal,3
+640,makaroni,5
+641,bombay,4
+642,jambu biji,1
+643,kedondong,3
+644,mengkal,4
+645,bon,1
+646,daun melinjo,3
+647,baby buncis,1
+648,kastor,6
+649,ikan kerapu,1
+650,sunti,1
+651,tauco,5
+652,belimbing wuluh,7
+653,ikan peda,1
+654,whipping,1
+655,lidah buaya,1
+656,melon,8
+657,misoa,2
+658,paru sapi,1
+659,seafood,1
+660,timun suri,1
+661,mutiara,1
+662,ketan,2
+663,keju edam,2
+664,ubi kuning,1
+665,ubi orange,1
+666,ikan salem,3
+667,cumi cumi,2
+668,margarine,2
+669,powder,3
+670,baller,1
+671,full,2
+672,churros,1
+673,jeroan,1
+674,mengoreng,1
+675,pakcoy,1
+676,rendang,2
+677,arik,7
+678,pasak,3
+679,sisakan,3
+680,semangit,1
+681,sprinkle,1
+682,estrak,1
+683,jambu,2
+684,nutella,3
+685,mambo,1
+686,lilin,2
+687,sumedangtahu,1
+688,pongtahu,1
+689,malam,1
+690,kikil sapi,3
+691,bunga genjer,1
+692,genjer,1
+693,ungkepan,1
+694,jempol,1
+695,abai,1
+696,perkedel,3
+697,iga,1
+698,parang,2
+699,salted,1
+700,saos,12
+701,french fries,1
+702,tulang,2
+703,lemas,1
+704,kembang,3
+705,lawang,1
+706,cabe,5
+707,ati ampela ayam,2
+708,pasang,2
+709,tahu pong,1
+710,ge,1
+711,tau,2
+712,sisiknya,1
+713,asam gelugur,1
+714,bunga pepaya,1
+715,gabin tawar,1
+716,tepung hunkwe,5
+717,perwarna,2
+718,temu kunci,2
+719,butuh,2
+720,utuhkan,1
+721,filet,1
+722,berwana,1
+723,kisi,1
+724,poppyseed,1
+725,paletta,1
+726,sapi,7
+727,tiram,6
+728,sop,1
+729,lap,1
+730,ebiudang,1
+731,dibentuk,1
+732,tahu sumedang,1
+733,bikin,1
+734,badan,2
+735,sdmisi,1
+736,pisang candi,1
+737,sisih,1
+738,leci,1
+739,garpu,4
+740,suji,3
+741,sungai,1
+742,melintang,2
+743,impor,1
+744,kenari,1
+745,jengki,1
+746,kabar,1
+747,donat,1
+748,mises,1
+749,kikil,1
+750,damping,1
+751,tulang daging,2
+752,jati,1
+753,fettucini,1
+754,garlic,2
+755,pepper,1
+756,chili,1
+757,black,2
+758,jengkol,3
+759,putren,2
+760,medan,1
+761,teri nasi medan,1
+762,nabati,1
+763,untum,1
+764,gado,1
+765,batagor,1
+766,pipih,3
+767,degan,1
+768,kerupuk kanji,1
+769,pedas,2
+770,jamur merang,2
+771,ayam jantan,1
+772,krimer kental manis,2
+773,melinjo hijau,1
+774,melinjo merah,1
+775,kornet,3
+776,kanji,1
+777,overmix,1
+778,mangkok,2
+779,forest,1
+780,rendamannya,2
+781,pahit,1
+782,melinjo,2
+783,esen,1
+784,lembek,1
+785,bengkoang,1
+786,nipis,1
+787,baby kailan,1
+788,kluwak,1
+789,tubunya,1
+790,susut,1
+791,putiknya,1
+792,minum,2
+793,perkuntum,2
+794,tomyam,1
+795,meggunakan,1
+796,pendek,1
+797,bread improver,2
+798,diganti,1
+799,pipihkan,1
+800,evaporated,1
+801,unsalted,1
+802,ramekin,1
+803,puding,1
+804,centong,1
+805,diiris,1
+806,sungutnya,1
+807,ujung,1
+808,tahu gembos,1
+809,raja,1
+810,barang,2
+811,uli,1
+812,stick,1
+813,suka,1
+814,coco,1
+815,roll,1
+816,spring,1
+817,sunkist,1
+818,palm,1
+819,dady,1
+820,canola,1
+821,asli,1
+822,lampir,1
+823,whipped,2
+824,sponge,1
+825,cangkang,1
+826,gandik,1
+827,fermipan,1
+828,aldente,1
+829,saus tartar,1
+830,ikan dori,2
+831,worcestershire,1
+832,roti burger,1
+833,kaki sapi,1
+834,leunca,1
+835,ketimun,2
+836,kecipir,1
+837,bakau,1
+838,taburi,1
+839,bokcoy,1
+840,nutrijell,2
+841,adas,1
+842,jantung pisang,1
+843,crackers,1
+844,tempoyak,1
+845,temopo,1
+846,celimpungan,1
+847,cingur,1
+848,pisang klutuk,1
+849,kapuh,1
+850,telunjuk,1
+851,sirih,1
+852,lombok,1
+853,tanjung,1
+854,pisang kapok,1
+855,kipas,3
+856,baby potato,2
+857,rempah,1
+858,kembang turi,1
+859,mangga kweni,1
+860,kuini,1
+861,bake,1
+862,lasagna,1
+863,ice cream,1
+864,putar,1
+865,raspberry,1
+866,kecoklatan,2
+867,oyong,1
+868,keras,1
+869,asparagus,1
+870,sugar,1
+871,hilang,1
+872,blue,1
+873,milkshake,1
+874,nutrisari,1
+875,cooking cream,1
+876,puff,1
+877,tegal,1
+878,foundant,1
+879,karamel,1
+880,mapel,1
+881,action,1
+882,tbm,1
+883,motif,1
+884,marble,1
+885,pan,1
+886,lemon cui,4
+887,daun cincau,1
+888,sari,1
+889,daun katuk,1
+890,sunpride,1
+891,samin,1
+892,timun jepang,1
+893,dangmyeon,1
+894,dadar,1
+895,white,1
+896,swallow,1
+897,biskuit marie regal,1
+898,argar,1
+899,pisang lilin,1
+900,buntut,1
+901,kaki,1
+902,tunjang,1
+903,mocca,1
+904,essense,1
+905,daun ketumbar,1
