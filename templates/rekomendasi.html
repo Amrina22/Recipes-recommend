@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RekomendasiResep</title>
+        <link rel="stylesheet" href="../static/css/stylesheet.css">
+    </head>
+    <body>
+        <div class="container-2">
+            <a class="back" href="#" onclick="window.history.back()">&#128473;</a>
+            <br>
+            <img src="../static/img/rc.png" alt="">
+            <div class="recom-container">
+                <h1 class="title">Recipe for <span class="span-container">you</span></h1>
+                <div class="resep-container">
+                    {% for recipe in recipes %}
+                        <div>
+                            <p class="judul-resep"><a href="{{ recipe.url }}" target="_blank">{{ recipe.judul }}</a></p>
+                            <p class="detail-resep">Bahan: {{ recipe.bahan }}</p>
+                            <p class="detail-resep">Similarity: {{ recipe.similarity }}</p>
+                            <p class="detail-resep">Matching Ratio: {{ recipe.matching_ratio }}</p>
+                            <p class="detail-resep">Matching Ingredients: {{ recipe.matching_ingredients }}</p>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <p> &copy; Amrina Rosyada</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RekomendasiResep</title>
+        <!--Main Css-->
+        <link rel="stylesheet" href="../static/css/stylesheet.css">
+    </head>
+    <body>
+       <div class="container">
+        <div class="content">
+            <h1 class="form-title">Recipe Recommendation from <span class="span-content">ResepKoki.id</span></h1>
+            <p class="para-content-1">This website is made for those who are confused about 
+                what to cook today, you can start <span class="span-content">cooking based on 
+                    the ingredients you have.</span></p>
+            <p class="para-content-2">You can enter the ingredients you have in the column below.</p>
+            <p class="para-content-3">*please use space after the symbol (,) when you type each ingredient, ex : egg, tomato, etc</p>
+            <div class="input-form">
+                <form action="/recommend" method="POST">
+                    <!--Input Resep-->
+                    <div class="inputForm-group">
+                        <label for="bahan"></label>
+                        <input type="text" name="Bahan" id="Bahan" placeholder="Type your ingredients here!" required/>
+                        <br>
+                        <button type="submit" class="form-submit">Get Recommend!</button>
+                    </div>
+                </form>
+                <div class="getrec-image">
+                    <figure><img src="../static/img/hm.png" alt="home image"></figure>
+                </div>
+            </div>
+        </div>
+       </div>
+       <div class="footer">
+        <p> &copy; Amrina Rosyada</p>
+       </div>
+    </body>
+</html>
