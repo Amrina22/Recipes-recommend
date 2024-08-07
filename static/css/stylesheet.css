@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+/*home.html*/
+h1.form-title{
+    position: absolute;
+    width: 734px;
+    height: 128px;
+    left: 89px;
+    top: 100px;
+    font-family: 'Newsreader';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 64px;
+    color: #000000;
+}
+span.span-content{
+    color: #E99A01;
+}
+p.para-content-1{
+    position: absolute;
+    width: 644px;
+    height: 90px;
+    left: 89px;
+    top: 278px;
+    
+    font-family: 'Newsreader';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 30px;
+    
+    color: #000000; 
+}
+p.para-content-2{
+    position: absolute;
+    width: 540px;
+    height: 24px;
+    left: 84px;
+    top: 415px;
+
+    font-family: 'Newsreader';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #E99A01;
+}
+p.para-content-3{
+    position: absolute;
+    width: 540px;
+    height: 24px;
+    left: 89px;
+    top: 440px;
+
+    font-family: 'Newsreader';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+}
+input{
+    width: 50%;
+}
+input[type=text]{
+    background: white;
+    border: 1px solid;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 587px;
+    height: 36px;
+    left: 80px;
+    top: 467px;
+}
+.form-submit{
+    background: #000000;
+    position: absolute;
+    text-align: center;
+    width: 10%;
+    font-family: 'Newsreader';
+    font-size: 11px;
+    height: 36px;
+    left: 80px;
+    top: 517px;
+    padding: 5px 22px;
+    display: inline-block;
+    color: white;
+}
+.getrec-image{
+    position: absolute;
+    width: 428px;
+    height: 335px;
+    left: 873px;
+    top: 70px;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    left: 0;
+    text-align: center;
+    background-color: white;
+    color: #000000;
+}
+
+.footer p{
+    font-family: 'Newsreader';
+    font-style: italic;
+    float: left;
+    font-weight: 70;
+    font-size: 15px;
+    line-height: 24px;
+    padding-left: 5%;
+    margin-bottom: 9px;
+}
+
+/*rekomendasi.html*/
+
+.container-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    align-items: flex-start;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.container-2 img {
+    max-width: 100%;
+    height: auto;
+}
+
+.recom-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 70px;
+}
+  
+.title {
+    font-size: 78px;
+    font-family: 'Newsreader';
+    font-style: italic;
+    font-weight: 700;
+    line-height: 48px;
+    color: #000000;
+    margin-top: 0;
+    margin-bottom: 50px;
+    margin-right: 50px;
+}
+.rank {
+    margin-right: 10px; /* Add some space between the rank number and the recipe title */
+}
+  
+.judul-resep {
+    font-family: 'Newsreader';
+    color: #000000;
+    font-size: 18px !important;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    text-decoration: none;
+}
+.judul-resep a {
+    color: #000000; /* Set the color to black */
+    text-decoration: none; /* Remove underline from the link */
+    text-align: left;
+    transition: color 0.3s;
+    font-weight: bold;
+    padding-top: 15px;
+}
+ 
+a:hover{
+    color: #E99A01;
+
+}
+
+.detail-resep {
+    font-family: 'Newsreader';
+    color: #000000;
+    font-size: 15px;
+    text-align: left;
+}
+
+  .span-container{
+    color: #E99A01;
+}
+.back {
+    font-size: 32px; /* Adjust the font size as per your preference */
+    text-decoration: none; /* Remove underline from the link */
+    display: inline-block; /* Make the link a block-level element */
+    transition: font-size 0.3s, color 0.3s; /* Add transition effects */
+    margin-left: 10px;
+    color: #000000;
+  }
+  
+  .back:hover {
+    font-size: 40px; /* Increase font size on hover */
+    color: #E99A01; /* Change color on hover */
+    /* Add other hover effects as needed */
+  }
